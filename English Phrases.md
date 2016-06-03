@@ -4,4 +4,5 @@
 4. in order the first time 第一时间
 5. follow along 遵从;依照
 6. take a tour 游览;参观
-7. all the way up to 一直到
+7. all the way up to 一直到  
+8. test 测试
